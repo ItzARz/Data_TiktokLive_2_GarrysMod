@@ -1,0 +1,10 @@
+{
+  "title": "GozTiktokReceiver",
+  "type": "addon",
+  "tags": ["Gozz", "ARz"],
+  "ignore": ["*.psd", "*.bak"],
+  "description": "Tiktok Receiver",
+  "author": "ARz",
+  "version": "1.0",
+  "gma": "true"
+}
