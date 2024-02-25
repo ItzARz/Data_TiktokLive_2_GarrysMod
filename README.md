@@ -1,12 +1,11 @@
 **_Data_TiktokLive_2_GarrysMod_**
 -
-**Intro**
-Example to send Tiktok Livestream Data to Garrys Mod
+**WHAT IS THIS? :thinking:**
+:point_right: Example to send Tiktok Livestream Data to Garrys Mod
 -
-[!WARNING]
-**Required** 
+:warning::exclamation:**REQUIRED** 
 This project use:
-- [TikTokLive](https://github.com/isaackogan/TikTokLive)
-- [Gmod-Websockets](https://github.com/HunterNL/Gmod-Websockets)
-- [websockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
+- :arrow_forward: [TikTokLive](https://github.com/isaackogan/TikTokLive)
+- :arrow_forward: [Gmod-Websockets](https://github.com/HunterNL/Gmod-Websockets)
+- :arrow_forward: [websockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 
