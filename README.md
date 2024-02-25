@@ -10,4 +10,7 @@ This project use:
 - [Gmod-Websockets](https://github.com/HunterNL/Gmod-Websockets)
 - [websockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 
+- > [!NOTE]
+> Useful information that users should know, even when skimming content.
+
 
