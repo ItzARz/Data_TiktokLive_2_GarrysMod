@@ -1,8 +1,8 @@
 **_Data_TiktokLive_2_GarrysMod_**
 -
-> [!INFO]
-> Intro
-> Example to send Tiktok Livestream Data to Garrys Mod
+[!INFO]
+Intro
+Example to send Tiktok Livestream Data to Garrys Mod
 [!WARNING]
 [Required] 
 This project use:
