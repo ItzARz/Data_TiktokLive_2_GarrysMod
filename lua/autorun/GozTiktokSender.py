@@ -4,7 +4,7 @@ from TikTokLive import TikTokLiveClient
 from TikTokLive.types.events import CommentEvent, ConnectEvent
 
 # Instantiate the client with the user's username
-client: TikTokLiveClient = TikTokLiveClient(unique_id="@thepokewall")
+client: TikTokLiveClient = TikTokLiveClient(unique_id="@nataliarest")
 
 # Create a set to keep track of connected Garry's Mod clients
 garrys_mod_clients = set()
